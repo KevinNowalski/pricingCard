@@ -124,3 +124,22 @@ body {
 h4 {
     padding-right: 50px;
 }
+
+.h2 {
+	text-align: center;
+	color: #ffffff;
+	text-shadow: 1.5px 1.5px #000000;
+}
+
+.containerH2 {
+	margin-top: 20px;
+}
+
+.h2 a {
+	color: #6c7976;
+}
+
+.h2 a:hover {
+    text-decoration: none;
+    color: #9daaa7;
+}
